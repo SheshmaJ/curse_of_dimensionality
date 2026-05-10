@@ -1,6 +1,6 @@
 # Curse Of Dimensionality
 
-![Curse of Dimensionality](images/curseofdimensionality.png)
+![Curse of Dimensionality](img/curseofdimensionality.png)
 
 The Curse of Dimensionality refers to the problems that arise when working with data that has a very large number of features or dimensions. While adding more features might seem beneficial at first, in practice it often makes machine learning models harder to train and less effective. As dimensionality increases, data becomes sparse, meaning observations are spread far apart in the feature space. This reduces the model’s ability to identify meaningful patterns and increases the risk of overfitting, where the model captures noise instead of signal.
 
